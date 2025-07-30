@@ -3,3 +3,4 @@
 2c02115 HEAD@{2}: commit: Alteracao arquivo app.js - alterado numero de tentativas
 777ce95 HEAD@{3}: Branch: renamed refs/heads/main to refs/heads/main
 777ce95 HEAD@{5}: commit (initial): Projeto Inicial - Numero Secreto
+## final do arquivo de log##
